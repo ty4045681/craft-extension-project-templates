@@ -1,0 +1,10 @@
+{
+  "id": "do.craft.contentGenerator",
+  "name": "Content Generator",
+  "fileName": "content-generator-extension",
+  "author" : "Ethan Harris",
+  "author-email" : "576552241qwj@gmail.com",
+  "description" : "Generate content for current page.",
+  "api": "0.0.1",
+  "main": "index.html"
+}
